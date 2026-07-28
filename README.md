@@ -1,2 +1,1 @@
-# .github
-Welcome to Value CoCreators
+# Welcome to Value CoCreators
